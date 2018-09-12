@@ -1,5 +1,8 @@
 class Student < User
+
   def initialize
-    knowledge = []
+    Student.new
+    @knowledge = []
   end
+
 end
