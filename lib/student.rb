@@ -1,5 +1,5 @@
 class Student < User
-  def first_name
-    @first_name
+  def initialize
+    knowledge = []
   end
 end
